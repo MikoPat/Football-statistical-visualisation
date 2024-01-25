@@ -1,7 +1,5 @@
 # Football-analysis
 
+Raport obejmie dwa spotkania: jedno z Mistrzostw Europy, które miały miejsce w 2021 roku, oraz jedno z Mistrzostw Świata, które odbyły się w 2022 roku. Wybór padł na te konkretne mecze ze względu na podobną klasę rywala oraz zbliżone okoliczności towarzyszące reprezentacji Polski przed obiema konfrontacjami. Oba były kluczowe, decydujące o szansach reprezentacji Polski na awans z grupy.
 
-Źródła:
-
-- [Python for Sports Data Science: How to Create an Expected Goals Chart](https://medium.com/@yogakrisanto1129/python-for-sports-data-science-how-to-create-an-expected-goals-chart-3157168a453a)
-- [mplsoccer is a Python](https://mplsoccer.readthedocs.io/en/latest/index.html
+Opublikowany raport: [link](https://online.fliphtml5.com/djuex/gqwu/#p=1)
