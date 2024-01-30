@@ -5,4 +5,4 @@ Raport obejmie dwa spotkania: jedno z Mistrzostw Europy, które miały miejsce w
 Opublikowany raport: [link](https://online.fliphtml5.com/djuex/gqwu/#p=1)
 
 
-English version: [link](https://online.fliphtml5.com/djuex/yftl/#p=1)
+English version: [link](https://online.fliphtml5.com/djuex/vflc/#p=1)
