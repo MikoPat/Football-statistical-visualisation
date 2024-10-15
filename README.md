@@ -8,4 +8,4 @@ English version
 
 The report analyses two matches: one from the 2021 European Championship and the other from the 2022 World Cup. These matches were selected due to the comparable quality of the opposition and the similar circumstances surrounding the Polish national team before both games. Both matches were critical to Poland's chances of advancing from the group stage.
 
-English version: [link](https://online.fliphtml5.com/djuex/vflc/#p=1)
+English version: [link](https://pdfupload.io/docs/5f7be709)
